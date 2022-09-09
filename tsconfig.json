@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "ESNext",
-    "module": "NodeNext",
+    "module": "NodeNext", //Changed from commonjs to NodeNext
 
     "allowJs": true,
     "declaration": false,
@@ -9,7 +9,7 @@
     "maxNodeModuleJsDepth": 10,
     "strict": true,
 
-    "moduleResolution": "NodeNext",
+    "moduleResolution": "NodeNext", //Added this line
 
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
